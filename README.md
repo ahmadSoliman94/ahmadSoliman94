@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Soliman</h1>
 <h3 align="center">A passionate in artificial intelligence</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsoliman94&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsoliman94" /> </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=13&color=E2E5F7&vCenter=true&lines=Robots+are+not+going+to+replace+humans%2C;they+are+going+to+make+their+jobs+much+more+humane.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
