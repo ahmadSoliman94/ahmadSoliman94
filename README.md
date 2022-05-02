@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsoliman94&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsoliman94" /> </p>
 
+<p><img align="right" src="https://github.com/ahmadSoliman94/ahmadSoliman94/blob/main/Ai.gif" alt="ahmadSoliman94" /></p>
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
