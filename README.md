@@ -13,7 +13,10 @@
 
 <br>
 
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadsoliman94&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsoliman94" /> </p>
+<br>
+
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
