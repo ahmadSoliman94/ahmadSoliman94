@@ -2,7 +2,7 @@
 <h3 align="center"> 👨‍💻 A passionate in artificial intelligence</h3>
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=18&duration=6000&color=E2E5F7&lines=Robots+are+not+going+to+replace+humans%2C;they+are+going+to+make+their+jobs+much+more+humane.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=18&duration=6000&color=E2E5F7&multiline=true&lines=Robots+are+not+going+to+replace+humans%2C;they+are+going+to+make+their+jobs+much+more+humane.)](https://git.io/typing-svg)
 
 
 <p><img align="center" src="https://github.com/ahmadSoliman94/ahmadSoliman94/blob/main/AI.gif" alt="ahmadSoliman94" /></p>
