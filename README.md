@@ -7,7 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadSoliman94](https://github.com/ahmadSoliman94)
 
-- 📫 How to reach me **Ahmad.Suliman94@hotmail.com**
+- 📫 How to reach me **Ahmad.Suliman94@hotmail.com** **Ahmad.Suliman011994@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
