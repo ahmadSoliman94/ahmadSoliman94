@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmad Soliman</h1>
 <h3 align="center"> 👨‍💻 A passionate in artificial intelligence</h3>
 
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=18&duration=6000&color=E2E5F7&lines=Robots+are+not+going+to+replace+humans%2C;they+are+going+to+make+their+jobs+much+more+humane.)](https://git.io/typing-svg)
 
-<br>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=18&duration=6000&color=E2E5F7&lines=Robots+are+not+going+to+replace+humans%2C;they+are+going+to+make+their+jobs+much+more+humane.)](https://git.io/typing-svg)
 
-<br>
 
-<p><img align="right" src="https://github.com/ahmadSoliman94/ahmadSoliman94/blob/main/AI.gif" alt="ahmadSoliman94" /></p>
+## <p><img align="right" src="https://github.com/ahmadSoliman94/ahmadSoliman94/blob/main/AI.gif" alt="ahmadSoliman94" /></p>
 
-<br>
-
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadsoliman94&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsoliman94" /> </p>
-<br>
+## <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadsoliman94&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsoliman94" /> </p>
 
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
