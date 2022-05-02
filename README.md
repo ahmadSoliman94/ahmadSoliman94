@@ -8,7 +8,6 @@
 ## <p><img align="right" src="https://github.com/ahmadSoliman94/ahmadSoliman94/blob/main/AI.gif" alt="ahmadSoliman94" /></p>
 
 
-## About me:
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadSoliman94](https://github.com/ahmadSoliman94)
