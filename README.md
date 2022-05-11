@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Soliman</h1>
-<h3 align="center"> 👨‍💻 A passionate in Artificial Intelligence</h3>
+<h3 align="center"> 👨‍💻 A passionate Artificial Intelligence</h3>
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=20&duration=6000&color=E2E5F7&lines=Robots+are+not+going+to+replace+humans%2C;they+are+going+to+make+their+jobs+much+more+humane.)](https://git.io/typing-svg)
