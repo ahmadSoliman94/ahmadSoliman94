@@ -10,7 +10,7 @@
 ## <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadsoliman94&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsoliman94" /> </p>
 
 <h3 align="left">🔭 About me:</h3>
-- 🌱 I’m currently learning **Machine learning and Deep learning**
+- 🌱 I’m currently learning Machine learning,Deep learning and Computer Vision 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadSoliman94](https://github.com/ahmadSoliman94)
 
