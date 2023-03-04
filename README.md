@@ -12,7 +12,7 @@
 <h3 align="left">🔭 About me:</h3>
 - 🌱 I’m currently learning Machine learning,Deep learning and Computer Vision 
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmadSoliman94]([https://github.com/ahmadSoliman94/Machine-Learning](https://github.com/ahmadSoliman94?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/ahmadSoliman94]([https://github.com/ahmadSoliman94?tab=repositories))])
 
 - 📫 How to reach me **Ahmad.Suliman94@hotmail.com**
 - 📫 How to reach me **Ahmad.Suliman011994@gmail.com**
